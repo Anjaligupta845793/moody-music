@@ -26,9 +26,8 @@ Our vision is to fully integrate with Spotify and YouTube, allowing you to insta
 
 ## 🎥 Demo
 
-*(It is HIGHLY recommended to add a short GIF or video of your application in action here. It's the best way to showcase your work.)*
 
-![Moody-Music Demo GIF](https://your-link-to-demo.gif)
+![https://youtu.be/Jee20ObkZac?si=s_NozoYWToPgpdny]
 
 ---
 
