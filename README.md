@@ -1,6 +1,6 @@
 # Moody-Music 🎵: Your Personal AI DJ
 
-**A conversational AI that understands your mood and curates the perfect music playlist just for you. Built for the [Your Hackathon Name Here]!**
+**A conversational AI that understands your mood and curates the perfect music playlist just for you. Built for the future stack hackthone **
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![made-with-react](https://img.shields.io/badge/Made%20with-React-1f425f.svg)](https://reactjs.org/)
