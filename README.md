@@ -3,7 +3,7 @@
 **A conversational AI that understands your mood and curates the perfect music playlist just for you. Built for the future stack hackthone **
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![made-with-react](https://img.shields.io/badge/Made%20with-React-1f425f.svg)](https://reactjs.org/)
+[![made-with-nextjs](https://img.shields.io/badge/Made%20with-React-1f425f.svg)](https://reactjs.org/)
 [![styled-with-tailwind](https://img.shields.io/badge/Styled%20with-Tailwind-38b2ac.svg)](https://tailwindcss.com/)
 
 ---
@@ -44,7 +44,7 @@ Our vision is to fully integrate with Spotify and YouTube, allowing you to insta
 ## ⚙️ How It Works
 
 1.  **Chat**: The user interacts with the AI through a simple chat interface.
-2.  **Analyze**: The backend sends the conversation transcript to a Large Language Model (e.g., Gemini, OpenAI GPT) to extract key emotions and themes, determining a "mood vector".
+2.  **Analyze**: The backend sends the conversation transcript to a Large Language Model (cerebras with Llama4) to extract key emotions and themes, determining a "mood vector".
 3.  **Generate**: This mood vector is used to query music APIs (e.g., Spotify's API with audio features like valence, energy, and danceability) to find matching tracks.
 4.  **Display**: The curated song list is presented to the user.
 5.  **(Future) Connect & Save**: The user authenticates with Spotify/YouTube via OAuth. The application then uses the respective APIs to create a new playlist with the generated tracks in the user's account.
